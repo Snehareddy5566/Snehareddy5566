@@ -13,7 +13,7 @@ CGPA: 9.43
 <a href="https://github.com/Snehareddy5566">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://portfolio-beryl-phi-82.vercel.app/">
+<a href="https://snehalatha-reddy.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/">
